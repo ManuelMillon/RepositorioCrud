@@ -1,26 +1,5 @@
-<html lang="en">
+#RepositorioCrud
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilos/estilocss.css">
-    <title>Log In</title>
-</head>
+No tiene mucha historia. Esto es una prueba, para ver las cosas que se pueden hacer y escribir. 
 
-<body>
-  <div class="login">
-    <h1>ACCESO</h1>
-      <form method="post">
-        <input type="text" name="u" placeholder="Usuario" required="required" />
-          <input type="password" name="p" placeholder="Contraseña" required="required" />
-          <button type="submit" class="btn btn-primary btn-block btn-large">Entrar</button>
-      </form>
-  </div>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
-</body>
-
-</html>
+Agradezco casi toda clase de comentarios, especialmente sobre mi sensacional melena. Habida cuenta de que aún estoy aprendiendo las cosas más básicas, agradezco comentarios constructivos.
